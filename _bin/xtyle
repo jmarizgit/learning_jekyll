@@ -1,0 +1,3 @@
+# curl https://raw.github.com/xchema/xtyle/built/xtyle/css/xtyle.min.css > xtyle/css/xtyle.min.css
+# wget -L https://github.com///archive/v0.1.tar.gz
+wget --no-check-certificate https://github.com/xchema/xtyle/archive/v0.1.tar.gz
