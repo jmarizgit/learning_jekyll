@@ -12,4 +12,9 @@ run:
 
      jekyll
     
+open:
+
+     http://0.0.0.0:4000
+
+
 ![Web application preview](http://emoriz.com/github/learning_jekyll.png)
