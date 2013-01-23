@@ -1,4 +1,4 @@
 learning_jekyll
 ===============
 
-Demo blog using jekyll
+Demo portfolio website using [jekyll](http://jekyllrb.com/) and [xtyle](http://xtyle.xchema.com)
